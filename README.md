@@ -260,7 +260,7 @@
   <h2>Contact</h2>
   <p>Email: <a href="tharani@kascsahy.ac.in">tharani@kascsahy.ac.in</a></p>
   <p>Phone: +91-8122602361</p>
-  <p>Location: A1hani, Gobi, India</p>
+  <p>Location: northpet,sathy, India</p>
   <div style="margin-top: 1rem;">
  <a href="https://linkedin.com/in/tharani" target="_blank">LinkedIn</a> |
  <a href="https://github.com/tharani" target="_blank">GitHub</a> |
